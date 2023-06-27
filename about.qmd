@@ -1,5 +1,8 @@
 ---
 title: "About"
+links:
+  icon: envelope
+  href: hsaxe@ucdavis.edu
 ---
 
 About this site

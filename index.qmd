@@ -1,12 +1,32 @@
 ---
 title: "Houston Saxe"
-image: headshot.JPG
+image: headshot.png
+resources: CV_Houston_Saxe_Gen_Short.pdf
 about: 
+  template: trestles
   image-shape: round
+  image-width: 15em
+  links:
+  - text: Email
+    icon: envelope
+    href: hsaxe@ucdavis.edu
+  - text: Github
+    icon: github
+    href: https://github.com/hsaxe
+  - text: Resume
+    icon: file-text
+    href: CV_Houston_Saxe_Gen_Short.pdf
 ---
 
-Hi there! Thanks for visiting
+<!-- ![Houston Saxe](headshot.png){width=4in fig-align="left"}  -->
+
+Hi there! Thanks for visiting my personal site.
 
 ```{r}
-1 + 1
+getwd()
 ```
+
+```{r}
+list.files()
+```
+

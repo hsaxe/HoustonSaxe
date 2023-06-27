@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Houston Saxe",
     "section": "",
-    "text": "Hi there! Thanks for visiting\n\n1 + 1\n\n[1] 2"
+    "text": "Hi there! Thanks for visiting my personal site.\n\ngetwd()\n\n[1] \"C:/Users/hsaxe/OneDrive/Documents/ALAB/Quarto_website/Personal_Website/Houston\"\n\n\n\nlist.files()\n\n[1] \"_quarto.yml\"                   \"about.qmd\"                    \n[3] \"CV_Houston_Saxe_Gen_Short.pdf\" \"docs\"                         \n[5] \"headshot.png\"                  \"Houston.Rproj\"                \n[7] \"index.qmd\"                     \"index.rmarkdown\"              \n[9] \"styles.css\""
   },
   {
     "objectID": "about.html",
